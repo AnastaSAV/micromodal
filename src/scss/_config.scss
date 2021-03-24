@@ -1,0 +1,28 @@
+$font: "Roboto";
+$fontSize: 16px;
+$color: #333333;
+
+
+
+.container {
+	display: block;
+	margin: 0 auto;
+	padding: 0 15px;
+	max-width: 1530px;
+	min-width: 320px;
+}
+
+
+
+
+
+
+body {
+	font-family: $font;
+    font-size: 26px;
+    color: $color;
+ }
+p {
+    margin-top: 400px;
+  
+  }
